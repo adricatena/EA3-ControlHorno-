@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>bug1.png</file>
+        <file>bug2.png</file>
+        <file>orange-usb-connected-256.png</file>
+        <file>red-usb-disconnected-256.png</file>
+        <file>icon-venue-access.png</file>
+        <file>11759494_10207668469818704_1100676622_n.jpg</file>
+        <file>Sin título.jpg</file>
+        <file>usbcon.png</file>
+    </qresource>
+</RCC>
